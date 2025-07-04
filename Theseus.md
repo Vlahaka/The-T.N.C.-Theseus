@@ -1,4 +1,5 @@
 # The T.N.C. Theseus
 ---
-> "Nothing" is the absolut absence in which there there can be no time, no motion, no entropy, no awareness and not even the ability of self-observation.
+> **"Nothing"** is the **absolut absence** in which there there can be **no time**, **no motion**, **no entropy**, **no awareness** and not even the ability of **self-observation**.
+---
 
