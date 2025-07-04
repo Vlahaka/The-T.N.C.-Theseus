@@ -46,5 +46,6 @@
 - “Actual, relay a message to the fighter squadron,” *Captain Radek said, his rugged voice filling the room with calm authority.* “Tell them: by the numbers.”
 ---
 > ![Radek](Artwork/John_Radek.png)
+> Captain John Radek of the T.N.C. Theseus.
 ---
 - “Actual to Witch—direct message from the Captain,” *the comms officer echoed.* “By the numbers.”
