@@ -49,3 +49,23 @@
 > Captain John Radek of the T.N.C. Theseus.
 ---
 - “Actual to Witch—direct message from the Captain,” *the comms officer echoed.* “By the numbers.”
+
+- “Witch to Actual—understood. We stick to the book,” *Witch confirmed.*
+
+- “Hound to Startrail—one’s got missile lock on me!” *his panicked voice crackled over the comms, echoing through the C.C.C.*
+
+- “I’ve got him locked,” *Startrail responded calmly.* “M1 launched... target neutralized.”
+
+*The C.C.C. stirred with sudden murmur—console operators whispering across dimly lit workstations. X.O. Haraldson exchanged a glance with the Captain, a silent nod of approval passing between them.*
+
+- “I’m in range to fire on Bogey Nine,” *Seahorse called out.* “Committed—punched him, but he’s still flying!”
+
+- “Missile lock,” *Witch cut in sharply.* “M1 loose... target pacified.”
+
+- “Sir,” the radar operator spoke quickly, “last remaining bogey is retreating.”
+
+- “Hound to Witch—requesting permission to pursue and destroy the target.”
+
+- “Hound, do not even think about going in alone!” *Witch snapped, her voice iron-clad.* “Remember your training!”
+
+“Five by five, Commander,” *Hound replied, steady now.* “Acknowledged.”
