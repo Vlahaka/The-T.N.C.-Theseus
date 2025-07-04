@@ -68,4 +68,4 @@
 
 - “Hound, do not even think about going in alone!” *Witch snapped, her voice iron-clad.* “Remember your training!”
 
-“Five by five, Commander,” *Hound replied, steady now.* “Acknowledged.”
+- “Five by five, Commander,” *Hound replied, steady now.* “Acknowledged.”
