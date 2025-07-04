@@ -56,7 +56,7 @@
 
 - “I’ve got him locked,” *Startrail responded calmly.* “M1 launched... target neutralized.”
 
-*The C.C.C. stirred with sudden murmur—console operators whispering across dimly lit workstations. X.O. Haraldson exchanged a glance with the Captain, a silent nod of approval passing between them.*
+*The C.C.C. stirred with sudden murmur—console operators whispering across  the workstations. X.O. Haraldson exchanged a glance with the Captain, a silent nod of approval passing between them.*
 
 - “I’m in range to fire on Bogey Nine,” *Seahorse called out.* “Committed—punched him, but he’s still flying!”
 
