@@ -64,7 +64,18 @@
 
 - “Missile lock,” *Witch cut in sharply.* “M1 loose... target pacified.”
 
-- “Sir,” the radar operator spoke quickly, “last remaining bogey is retreating.”
+*The C.C.C. erupted once more—this time with hushed excitement rippling through the operators’ stations.*
+“Rhea’s a damn good pilot,” *murmured a young woman at the telemetry console, loud enough for her colleague at Sensor Sweeps* — **and** *Captain Radek—to hear.*
+
+*She didn’t need to turn her head to feel the Captain’s gaze settle on her.*
+
+“My apologies, Sir,” *she said evenly, not rattled, but clearly aware.*
+
+“Reports only,” *Radek said, his tone firm but not unkind.*
+
+“Of course, Sir. My apologies, Sir. Won’t happen again, Sir.”
+
+- “Sir,” *the radar operator spoke quickly,* “last remaining bogey is retreating.”
 
 - “Hound to Witch—requesting permission to pursue and destroy the target.”
 
