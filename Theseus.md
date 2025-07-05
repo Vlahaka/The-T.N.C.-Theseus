@@ -87,10 +87,10 @@
 *He turned slightly toward the comms officer.*
 “Tell Kovarik to report to the C.C.C. the moment she’s on deck.”
 
-- “Actual to all wings—return to the Theseus. Captain’s orders,” *the comms officer transmitted.* “I repeat: combat simulation terminated.”
+“Actual to all wings—return to the Theseus. Captain’s orders,” *the comms officer transmitted.* “I repeat: combat simulation terminated.”
 
 *Moments later, the announcement echoed across the entire vessel—through hangars, corridors, and reinforced causeways:*
 
-- “Stand down action stations. Stand down action stations. Combat simulation terminated.”
+**“Stand down action stations. Stand down action stations. Combat simulation terminated.”**
 
 *The voice reverberated through the ship like a calming tide, signaling the end of the drill.*
