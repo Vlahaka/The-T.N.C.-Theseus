@@ -1,7 +1,7 @@
 ![1000003673](https://github.com/user-attachments/assets/988d2ad1-efb1-4b98-81c5-4b910b5735e5)
 
 
-# The T.N.C. Theseus
+# From Darkness: The Odyssey of Theseus
 ---
 > **"Nothing"** is the **absolut absence** in which there there can be **no time**, **no motion**, **no entropy**, **no awareness** and not even the ability of **self-observation**.
 ---
