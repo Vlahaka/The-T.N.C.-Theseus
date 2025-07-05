@@ -75,7 +75,7 @@
 
 “Of course, Sir. My apologies, Sir. Won’t happen again, Sir.”
 
-- “Sir,” *the radar operator spoke quickly,* “last remaining bogey is retreating.”
+“Sir,” *the radar operator spoke quickly,* “last remaining bogey is retreating.”
 
 - “Hound to Witch—requesting permission to pursue and destroy the target.”
 
