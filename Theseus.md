@@ -31,6 +31,7 @@
 “Alright, team—let’s finish this. Weapons hot. Stay tight and stay smart.”
 
 “Seven enemy craft down—taken out by just four pilots,” *X.O. Haraldson said, breaking the silence in the C.C.C.* *He glanced at the tactical display, then back at the Captain.* “Those nine months of combat simulations are finally starting to pay off, sir.”
+
 ---
 > ![haraldson](Artwork/Leif_Haraldson.png)
 > X.O. Leif Haradlson
