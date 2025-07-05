@@ -18,7 +18,7 @@
 
 - "Witch to all fighters—form up on me. Three bogeys remaining. Theseus Actual, can you confirm?"
 
-- "Theseus Actual here. I confirm three radar bogeys remaining—grid coordinates Kappa-19 by Theta-42. They’re holding current formation. I repeat: formation and heading unchanged."
+"Theseus Actual here. I confirm three radar bogeys remaining—grid coordinates Kappa-19 by Theta-42. They’re holding current formation. I repeat: formation and heading unchanged."
 
 - "Hound here—I'm in position, right behind you, Witch."
 
@@ -30,7 +30,7 @@
 *She switched channels, addressing her squadron directly.*
 “Alright, team—let’s finish this. Weapons hot. Stay tight and stay smart.”
 
-- “Seven enemy craft down—taken out by just four pilots,” *X.O. Haraldson said, breaking the silence in the C.C.C.* *He glanced at the tactical display, then back at the Captain.* “Those nine months of combat simulations are finally starting to pay off, sir.”
+“Seven enemy craft down—taken out by just four pilots,” *X.O. Haraldson said, breaking the silence in the C.C.C.* *He glanced at the tactical display, then back at the Captain.* “Those nine months of combat simulations are finally starting to pay off, sir.”
 ---
 > ![haraldson](Artwork/Leif_Haraldson.png)
 > X.O. Leif Haradlson
@@ -43,12 +43,12 @@
 
 - “Aye aye, sir,” *Seahorse acknowledged,* locking into position beside Witch.
 
-- “Actual, relay a message to the fighter squadron,” *Captain Radek said, his rugged voice filling the room with calm authority.* “Tell them: by the numbers.”
+“Actual, relay a message to the fighter squadron,” *Captain Radek said, his rugged voice filling the room with calm authority.* “Tell them: by the numbers.”
 ---
 > ![Radek](Artwork/John_Radek.png)
 > Captain John Radek of the T.N.C. Theseus.
 ---
-- “Actual to Witch—direct message from the Captain,” *the comms officer echoed.* “By the numbers.”
+“Actual to Witch—direct message from the Captain,” *the comms officer echoed.* “By the numbers.”
 
 - “Witch to Actual—understood. We stick to the book,” *Witch confirmed.*
 
@@ -70,7 +70,7 @@
 
 - “Five by five, Commander,” *Hound replied, steady now.* “Acknowledged.”
 
-- “Bring them back,” *Captain Radek ordered, his tone composed but firm.* “And have each pilot submit a report explaining how the last bogey managed to maneuver into retreat.”
+“Bring them back,” *Captain Radek ordered, his tone composed but firm.* “And have each pilot submit a report explaining how the last bogey managed to maneuver into retreat.”
 *He turned slightly toward the comms officer.*
 “Tell Kovarik to report to the C.C.C. the moment she’s on deck.”
 
