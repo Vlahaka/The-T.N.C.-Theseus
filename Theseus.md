@@ -328,3 +328,74 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 
 *Haraldson gave a proud shrug as he fell in beside him.*
 “Some perks never lose their shine. Let’s get back to the C.C.C.”
+
+*Even before stepping outside the cantina, the two commanders could already hear the surge of movement. Alarms blared. Yellow warning lights pulsed through the corridors in steady, stuttering flashes. Crew members stormed past in all directions, focused, driven—none stopping to salute. It was as if the captain and XO had become just another part of the machinery in motion.*
+
+*Radek and Haraldson moved quickly, pacing hard toward the C.C.C. when the overhead speakers erupted again*:
+
+**"Captain and Executive Officer—report to Command and Communication Center immediately."**
+
+*Radek caught a voice in passing—one of the crew, panicked and breathless:*
+**“What THE FUCK IS GOING On?”**
+
+*Neither commander responded. They pressed forward, urgency carving lines into their faces.*
+
+*Haraldson sidestepped a pair of crewmen wheeling a cart overloaded with interceptor parts, grinning like a man finally released from stillness*.
+
+“Finally, this ship is alive,” *he said, eyes scanning the blur of movement.*
+
+“I must admit, Leif,” *Radek replied between breaths*, “after so long being parked in the middle of… nothing—it does look like we’re pumping blood again.”
+
+*Both men stormed into the C.C.C.—and chaos greeted them like a tidal wave*.
+
+*The acting officer rushed to intercept Radek, weaving through the blur of shouting, overlapping chatter, console alarms, and printers spewing reams of data*.
+
+"Sir—gravitational arrays are detecting fifty-two ERBs forming all over our location—they’ll be here in—"
+
+*He was cut off as the speakers cracked to life with a surge of radio chatter from engineering:*
+
+- “Impulse core is now engaged. All metrics green on our side. Actual, confirm order to begin Einstein-Rosen bridge formation!”
+
+*Radek turned instinctively toward the nearest hardline, but another voice broke through—the radar operator:*
+
+“Captain! Fifty-two bogeys on scope, they are all ORF. Orders, sir?”
+
+*Before Radek could respond, Haraldson slammed a fist into the command table. His voice roared over the din:*
+
+"Silence! This is the C.C.C.! You are trained Navy personnel—act like it! Or I swear, I’ll personally throw every last one of you into the brig!"
+
+The room fell into sudden, brittle silence. Only the soft whine of alarms and the rapid ticking of printers remained.
+
+"Give me full ID on the 52 ships. Cancel the impulse jump. Set Condition One across the ship," *Radek ordered, his voice steady but razor-sharp as he took full command of the C.C.C.*
+
+*A tactical officer responded, eyes glued to the display.* "Sir, the ORF fleet appears to be entirely civili—"
+
+*Before he could finish, the ship-wide alert cut him off:*
+
+"ALL HANDS: BRACE FOR ACTIVE COMBAT. CONDITION ONE IS SET. LIVE AMMUNITION HAS BEEN AUTHORIZED."
+
+*Radek’s eyes narrowed.* "No military craft in that fleet? Confirm that."
+
+*The radar post snapped back,* "No, sir. Fifty-two vessels. Civilian only—no visible weapons, no tactical formations."
+
+*The comms lit up again with engineering:*
+- "Actual, confirm impulse jump abort. Repeat—confirm abort."
+
+*Haraldson leaned over the comms station and locked eyes with the trembling lieutenant manning the channel.*
+
+"Son..." *his voice dropped to a gravelly growl*, "are you going to make them wait for confirmation while we’re staring down fifty unarmed ships?"
+
+"No sir. Yes sir!" *the lieutenant snapped back into reality.*
+"Actual here—aborting impulse jump. Impulse protocols standing down."
+
+*As the tension in the room began to settle, a new flood burst through the comms—the radio chatter from all 52 ORF ships, overlapping, desperate, chaotic, each transmission cutting in and out, voices trembling:*
+
+- "Thank god you’re here..."
+- "We... were... hundreds..."
+- "They... while we tried to evac..."
+- "All military stayed behi—"
+- "One... unknown craft..."
+- "Thousands dead..."
+
+*Radek’s eyes sharpened. He straightened and gave a single, cold order:*
+"Jam all communications. All frequencies. All ships. Now."
