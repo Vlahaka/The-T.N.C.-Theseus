@@ -199,3 +199,56 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 “Pick a spot for us. I’ll hit the coffee machine. You want one too, I assume?”
 
 “Yes, sir. I’d appreciate a mug of coffee,” *she replied quickly, already moving toward the empty table with a practiced step.*
+
+*At the coffee machine, Radek and Haraldson kept quiet—a strategic silence between them, not born of fatigue or disinterest, but of intention. They were scanning the cantina, ears tuned to the undercurrent of gossip and murmured speculation. It wasn’t curiosity—it was reconnaissance. The mood of a ship, after all, could be taken better from whispers than from reports.*
+
+*As Radek poured steaming coffee into two metal mugs, he caught fragments of a hushed exchange at a table just a few meters to the left—four marines hunched close, heads low.*
+
+"I’m telling you, the ORF is planning revenge on the TSU for losing the w—"
+*One of them was abruptly cut off by the marine across from him.*
+"The Outer Ring Factions are humans too," *he said sharply.* "They deserve a place in the damn solar system. It’s big enough for all of us."
+
+*Haraldson met Radek’s gaze. A single glance. A slight nod. The kind of subtle exchange that signaled agreement: the marine’s logic was... difficult to argue with.*
+
+*Radek took a metal tray from the stack nearby and placed three coffee mugs side by side.*
+“I’ll go with these to the table. You bring some sandwiches—or whatever they’ve got,” *he said over his shoulder.*
+
+*Haraldson growled something unintelligible in response, the kind of grumble that walked the line between mock annoyance and affection. Radek smirked, balancing the tray as he made his way through the cantina*.
+
+*As he walked carefully between the tables, another low conversation caught his attention—this time between two medical staff seated near the corner bulkhead.*
+
+“I was with Seahorse yesterday,” *one of the doctors murmured, cheeks flushing pink*. “And I must say, I’m not disappointed.”
+
+“Really?” *the other blinked, clearly surprised.* “I heard from a solid source he’s crushing hard on his lead.”
+
+*Radek arched an eyebrow but didn’t slow his pace. As curious as he was about this girly gossip, his mission was clear. He reached Kovarik’s table and lowered the tray gently, setting the mugs down one by one without spilling a drop.*
+
+“What’s on your mind?” *Radek asked gently, noticing Kovarik staring into a fixed point.*
+
+*She didn’t look at him when she spoke.*
+“Sir… do you remember? Thirteen years ago, the final minutes of the Sol War?”
+*Her voice softened, the edges tinged with something between nostalgia and unease.*
+“When we had our guns locked on the Neptunic Militia fighters… I still remember your voice, steady over the radio, keeping us calm. All of us, finger on the trigger, and you kept saying—‘Do not fire unless fired upon. Wait. Wait.’ Over and over.”
+
+*Radek paused, his mug halfway to his lips. The memory hit him like a brief static charge*.
+“Ah... yeah. I remember. Why bring that up now?”
+
+“Bring what up?” *Haraldson’s voice cut in casually as he was taking a seat the table, placing a tray of sandwiches down with a familiar thud. He glanced between them, sensing something deeper had just passed beneath the surface.*
+
+“Well,” *Radek said, looping Haraldson into the moment,* “our young squadron lead is feeling a bit nostalgic about the final minutes of the Sol War.”
+
+“Ah… I see,” *Haraldson nodded as he slid into his seat, picking up on the weight in the air*. “What about it, Kovarik?”
+
+*She stared into her coffee for a moment, then looked up, eyes steady*.
+“I wanted to say… back then, I wanted to kill every last one of those bastards. Personally.”
+*Her expression shifted—nostalgia giving way to the ghost of old rage, then cooling into blank calm*.
+“But now… I keep trying to summon that same fire toward the ORF, and it’s just not there anymore. I don’t feel it. Not like I used to.”
+
+*Radek shifted his gaze to Haraldson—an unspoken cue that this part of the conversation was the XO’s domain.*
+
+*Catching the signal, Haraldson cleared his throat and leaned forward slightly.*
+"Listen, Rhea," *he began, voice steady but softened*, "we’re all soldiers here. We follow orders. Even those guys in the Sol War... they were just following theirs."
+*He looked down at his coffee mug, the steam swirling like faint ghosts of memory.*
+"We all carry skeletons," *he said, more quietly now*. "That’s the life we signed up for. A soldier’s life. We live with it."
+*Then he raised his eyes to meet hers.*
+"The fact that your thirst for vengeance is gone—it doesn’t make you weak. It means you’ve learned to live again."
