@@ -178,7 +178,7 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 “Heh, I can smell the coffee already,” *Haraldson blurted out, suddenly picking up his pace as he saw the cantina doors.*
 
 *Radek turned his head toward Kovarik, a wide grin spreading across his face.*
-“He really wanted that coffee, it seems.”
+“He **really** wanted that coffee, it seems.”
 
 *The Witch let out a laugh, light and genuine—and for a moment, Radek felt the weight on his shoulders lift. Just for a few seconds.*
 
