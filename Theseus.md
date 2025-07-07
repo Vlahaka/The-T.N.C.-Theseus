@@ -252,3 +252,17 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 "We all carry skeletons," *he said, more quietly now*. "That’s the life we signed up for. A soldier’s life. We live with it."
 *Then he raised his eyes to meet hers.*
 "The fact that your thirst for vengeance is gone—it doesn’t make you weak. It means you’ve learned to live again."
+
+*Kovarik nodded slowly, her mouth parting to reply, but she was cut off by shouting from beyond the cantina door.*
+
+"XO Haraldson! Sir, there’s a—XO Harald—!”
+*A young lieutenant burst through the entrance, eyes wide, breath ragged as he scanned the room.*
+
+“Message, sir! Urgent message from Navy Command!”
+
+“I’m here, boy,” *Haraldson called out, standing halfway from his seat.* “What’s with the theatrics? Did you forget your training?”
+
+“No, sir!” *the lieutenant straightened into a rigid posture, voice loud and crisp now.* “Message marked for immediate delivery to Theseus Command Staff. No delay permitted, sir!”
+
+*Haraldson stepped forward, already extending a hand.*
+“Dismissed, Lieutenant,” *he said calmly as he took the sealed paper*.
