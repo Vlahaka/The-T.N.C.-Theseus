@@ -147,3 +147,31 @@
 “They’re improving, sir,” Kovarik *replied without hesitation*. “After more than 600 hours in combat simulations, they damn well ought to. They’re starting to operate as a unit—but they still slip into cocky impulses. Like Hound earlier.”
 *She folded her arms.*
 “In a real engagement, they might panic at first. But I’ve got the leash tight. If they lose it, I’ll snap them back into line.”
+
+*Radek frowned slightly.*
+“Why did you feel the need to extend your feedback into a live combat scenario? The war ended thirteen years ago, Commander.”
+
+*Haraldson glanced at Radek, a small knowing smile on his face—wordless confirmation that the unease wasn’t just in the command deck. It had seeped into every corridor of the ship.*
+
+“With all due respect, Captain,” *Kovarik began, inhaling deeply as if bracing herself*, “we’ve been stationed here for almost a year. I haven’t heard a single new directive from either of you—aside from the daily combat simulations. We’re preparing for something. We don’t know what, or when—but everyone on this ship feels it in their bones.”
+
+“Sounds like you’re complaining,” *Haraldson cut in sharply, stepping toward her.*
+
+“No, sir,” *Kovarik snapped into proper posture*. “I’m stating facts. It feels like the TSU is preparing for an offensive against the ORF—and we’re the tip of the spear.”
+
+“Let her be, Leif,” *Radek interjected, a wide smile creeping onto his face*. “She’s right to speculate. We haven’t given out any new instructions because we haven’t received any. Just: hold position.”
+*He stepped past her, heading toward the exit.*
+“Now, let’s get that coffee you’ve been whining about.”
+
+The two men stepped out of the C.C.C., while Kovarik remained rooted in place—like a computer left mid-task with no further input.
+
+"Are you gonna sleep there, Kovarik?" *the X.O.'s voice rang out, echoing through the chamber.*
+
+"No sir! On my way, sir!" *the Witch replied in a raised, eager tone and immediately quickened her pace to catch up with the two men.*
+
+*As they walked through hallways, bulkheads, and causeways, every crew member they passed stopped in their tracks to offer firm, respectful salutes. Kovarik was clearly elated to be seen walking beside the ship’s Captain and Executive Officer.*
+
+*Radek could feel her pride—and he remembered. Fifteen years ago, during the Great Sol War, she had joined his crew as a fresh academy graduate. Back then, she dreamed of becoming a great pilot, though her confidence was brittle. She had lost her family and friends to a bombing raid on her home dome on Mars. The only reason she survived was because she was still in Navy school on Earth.*
+
+*After that, she flew with fury. She wanted to avenge her loss, to protect others from the same fate. It was Haradlson who shaped her into the pilot she had become—a razor-sharp ace who had survived countless dogfights on skill, instinct, and sheer will alone.*
+
