@@ -266,3 +266,25 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 
 *Haraldson stepped forward, already extending a hand.*
 “Dismissed, Lieutenant,” *he said calmly as he took the sealed paper*.
+
+*Radek and Kovarik watched as Haraldson sat down heavily, the paper in hand. He huffed, puffed, and let out a low, animal growl from deep in his throat*.
+
+**“It’s bad, John**,” *he muttered grimly, sliding the message across the table*. **“It’s very bad.”**
+
+*Every eye in the cantina was locked on the command staff’s table. Conversations had ceased. Breaths were held.*
+
+*Radek took the paper without a word and began reading—deliberately slow. He could feel the heat rising in his face, jaw tightening with each line.*
+
+> **To the Theseus Command Staff,**
+>
+> Following the negotiations between the TSU and the ORF, the T.N.C. Theseus is hereby ordered to depart immediately upon receipt of this T.P.C.
+
+> Coordinates: [KX-287.94 / 09°N - 132°W / 41.7 AU]
+>
+> Rendezvous with an Outer Ring Faction fleet is to occur at the specified coordinates. The purpose of this engagement is to ensure the safe escort and extraction of all vessels currently within ORF territory at that location. 
+>
+> Intelligence reports indicate the destruction of multiple ORF ships and stations by an unidentified vessel not originating from the Sol system.
+
+> Departure is to be confirmed via T.P.C. with Navy Command and executed without delay.
+>
+> **Godspeed.**
