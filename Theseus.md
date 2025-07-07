@@ -288,3 +288,43 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 > Departure is to be confirmed via T.P.C. with Navy Command and executed without delay.
 >
 > **Godspeed.**
+
+*Radek folded the paper slowly, pressing each crease with deliberate weight, as if trying to contain the message within it. For a long moment, he kept his eyes down. Only when the silence stretched unbearably did he lift his gaze to meet Haraldson’s.*
+
+"Clear the cantina," *he said, his voice low, almost hoarse—like the words had scraped their way out.*
+
+*Without hesitation, the X.O. turned on his heel, voice erupting like a thunderclap that shook the air and steel alike.*
+
+"All personnel—on your feet and back to your posts! Move, you lazy bastards!"
+
+*In an instant, the cantina erupted into motion. Chairs scraped back, trays clattered, and startled shouts echoed off steel walls. Glasses shattered, drinks spilled, and half-eaten meals were abandoned. The crew moved with practiced chaos—every one of them—and even the Witch gave a sharp salute before disappearing into the exodus.*
+
+*Silence fell again, heavy and sudden.*
+
+"Well, John..." *Haraldson’s voice cut through the stillness, deeper and more solemn than Radek had ever heard.* "...can you tell me what the hell **not of Sol origin** is supposed to mean?"
+
+*Radek shook his head slowly, his voice carrying a restrained edge*. "I know as much as you do, Leif. But one thing’s clear—we’ve just been ordered into ORF territory. Thirteen years of silence, and now we’re the first ones to cross the line."
+
+*He leaned forward, placing his elbows on the table, rubbing his eyes with his palms like he was trying to press sense into the situation*. "I think it’s safe to assume the negotiations are over."
+
+*Haraldson’s voice rose—not in panic, but in conviction*. "They’re sending us in blind, John. What if this is a trap? What if the ORF's playing dead just long enough to seize Command’s most advanced ship?"
+
+*He paused, staring into Radek’s eyes*.
+
+"If it comes to it—if we’re outgunned, surrounded—we can’t let them take the Theseus. We destroy her. We all go down with her if we must. But they don’t get her. Not a scrap."
+
+“This is what we signed up for, Leif. And besides,” *Radek added with a tempered voice,* “we’ve faced worse odds than this.” *He stood straighter*. “So what are we waiting for? Give the order.”
+
+“Aye, aye, Sir,” *Haraldson replied without hesitation, turning briskly toward the nearest hardline terminal mounted on the cantina wall. He picked up the receiver, voice clear and proud as steel.*
+
+“Action Stations! Set Condition Two throughout the ship. Initiate alignment to ORF Staging Outpost. Prepare Impulse Jump Protocols.”
+
+*The very moment he hung up, the deck beneath them began to thrum—a low, powerful vibration spreading through the cantina like a pulse of restrained thunder.*
+
+**"ACTION STATIONS, ACTION STATIONS—THIS IS NOT A DRILL. ALL HANDS TO YOUR POSTS. CONDITION TWO IS SET. IMPULSE JUMP PROTOCOL INITIATED."**
+
+*Radek, already in motion toward the exit, glanced sideways at Haraldson with a half-smile.*
+“You never get tired of that part, do you?”
+
+*Haraldson gave a proud shrug as he fell in beside him.*
+“Some perks never lose their shine. Let’s get back to the C.C.C.”
