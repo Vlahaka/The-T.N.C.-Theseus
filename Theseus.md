@@ -175,3 +175,27 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 
 *After that, she flew with fury. She wanted to avenge her loss, to protect others from the same fate. It was Haradlson who shaped her into the pilot she had become—a razor-sharp ace who had survived countless dogfights on skill, instinct, and sheer will alone.*
 
+“Heh, I can smell the coffee already,” *Haraldson blurted out, suddenly picking up his pace as he saw the cantina doors.*
+
+*Radek turned his head toward Kovarik, a wide grin spreading across his face.*
+“He really wanted that coffee, it seems.”
+
+*The Witch let out a laugh, light and genuine—and for a moment, Radek felt the weight on his shoulders lift. Just for a few seconds.*
+
+“Come on, let’s grab a bite,” *he said, nudging Kovarik forward.*
+
+*As they reached the cantina entrance, the shift in atmosphere was palpable. Inside, the moment the crew spotted the XO stepping in, there was the scrape of chairs on metal floors and a near-synchronized, firm:*
+
+**“Sir!”**
+
+*The same sharp reaction echoed through the cantina the instant the captain stepped through the door. Chairs scraped again, boots shifted, and voices rang out in near-perfect unison:*
+
+**“Sir!”**
+
+“At ease, everyone!” *Haraldson barked, cutting through the salute before it could fully form.*
+
+*Radek, stepping in behind him, gave a small wave of his hand.* “Sit down, carry on.”
+*Then, turning toward Kovarik with a warm but confident tone, he gestured toward a row of empty seats near the far bulkhead.*
+“Pick a spot for us. I’ll hit the coffee machine. You want one too, I assume?”
+
+“Yes, sir. I’d appreciate a mug of coffee,” *she replied quickly, already moving toward the empty table with a practiced step.*
