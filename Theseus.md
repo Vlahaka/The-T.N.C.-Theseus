@@ -97,3 +97,33 @@
 **“Stand down action stations. Stand down action stations. Combat simulation terminated.”**
 
 *The voice reverberated through the ship like a calming tide, signaling the end of the drill.*
+
+"All non-essential personnel, dismissed," *X.O. Haraldson ordered, his voice raised and firm, cutting through the ambient hum of systems and low chatter.*
+
+*All console operators—except those manning radar and telemetry—stood up in near unison, saluted crisply, and made their way toward the exit of the C.C.C.*
+
+“They still couldn’t intercept the last bogey before it broke and executed the retreat maneuver,” *Captain Radek muttered, sighing as he paced slowly around the central command table.*
+
+“Well now, John,” *Haraldson added quickly, leaning lazily on one elbow across the edge of the table*, “you handpicked this crew yourself. You knew they were fresh meat. And still, Witch turned them from maggots into something that resembles a fighter squadron. You know damn well this last simulation’s hard—even for veteran pilots.”
+
+“The problem, Leif,” *Radek said, stopping mid-step to lock eyes with his XO*, “is that I was told to choose from cadets. And I was told this stationing—on the edge of ORF space—was just a political showpiece while the diplomats danced.”
+*He gestured slightly in the air between them.*
+“We’ve been sitting here for almost a year. That tells me it’s not a show anymore.”
+
+“Always the pessimist,” *Haraldson replied, dragging both hands down his face with a quiet groan.* “Always assuming the worst. Why do you make it your mission to stress me out like this?”
+
+“Don’t you ever think about this?” *Radek asked, leaning forward and planting both hands firmly on the command table between them.* “Don’t you feel something—some deeper layer to all of this?”
+*He locked eyes with Haraldson.*
+“Your instinct’s always been sharper than mine. What does it say now?”
+
+“It tells me I need a big cup of coffee,” *Haraldson smirked, glancing sidelong at Radek.* “And so do you.”
+*But the smile didn’t last and his tone shifted as his face turned grave.*
+“But seriously… ever since the Great Sol War ended, and the ORF split off into that godforsaken Kuiper Belt, they’ve kept to themselves. No TPCs. No requests. Nothing. That was the deal.”
+*He gestured toward the bow of the ship.*
+“And for thirteen years, that deal held. Everyone was fine. No noise. No contact. Then ten months ago…”
+*He paused, the silence between them louder than before.*
+“…they open a channel to the Terran Sol Union government.”
+*Haraldson’s voice tightened with suspicion.*
+“And now we’re sitting here—on ‘trade negotiations’ that have dragged on for almost a year?”
+*He nearly shouted the last line at Radek, then immediately dropped his volume.*
+“Yeah, John. I feel it too. Something ain’t right.”
