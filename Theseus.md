@@ -127,3 +127,23 @@
 “And now we’re sitting here—on ‘trade negotiations’ that have dragged on for almost a year?”
 *He nearly shouted the last line at Radek, then immediately dropped his volume.*
 “Yeah, John. I feel it too. Something ain’t right.”
+
+*The door to the C.C.C. slid open before the XO could finish his last word.*
+
+*Striding in with her usual confidence and a voice that needed no microphone*, *Rhea Kovarik declared:*
+“Commander Kovarik callsign the Witch, reporting to the C.C.C. as requested, sir!”
+
+---
+
+> ![kovarik](Artwork/Rhea_Kovarik.png)
+> Commander Rhea "Witch" Kovarik fighter division leader.
+
+---
+
+*Radek and Haraldson turned toward her, returning her salute with a nod and matching formality.*
+
+“At ease, Commander,” *Haraldson said, gently, one eyebrow arching with faint amusement.* “Just give us the feedback on your squad’s progress.”
+
+“They’re improving, sir,” Kovarik *replied without hesitation*. “After more than 600 hours in combat simulations, they damn well ought to. They’re starting to operate as a unit—but they still slip into cocky impulses. Like Hound earlier.”
+*She folded her arms.*
+“In a real engagement, they might panic at first. But I’ve got the leash tight. If they lose it, I’ll snap them back into line.”
