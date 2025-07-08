@@ -423,25 +423,30 @@ Then, cutting cleanly through the tension, Radek’s voice:
 *Haraldson swept his eyes across the C.C.C., mic lowered to his chest.*
 
 “Navigation.”
+
 “Go,” *came the sharp reply.*
 
 “Tactical.”
+
 “Go.”
 
 “Telemetry.”
+
 “Go.”
 
 “Radar.”
+
 “Go.”
 
 “Astrometrics.”
+
 “Go.”
 
 “Comms.”
+
 “Go.”
 
 *He raised the mic again.*
-
 “Engineering.”
 - “Standing by,” *the radio crackled*.
 
