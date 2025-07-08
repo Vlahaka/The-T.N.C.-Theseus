@@ -419,3 +419,43 @@ Then, cutting cleanly through the tension, Radek’s voice:
 **“All hands, this is XO Haraldson. Stand by for ship-wide systems check.”**
 
 *His voice echoed through every corridor, room, hall, and bay of the Theseus.*
+
+*Haraldson swept his eyes across the C.C.C., mic lowered to his chest.*
+
+“Navigation.”
+“Go,” *came the sharp reply.*
+
+“Tactical.”
+“Go.”
+
+“Telemetry.”
+“Go.”
+
+“Radar.”
+“Go.”
+
+“Astrometrics.”
+“Go.”
+
+“Comms.”
+“Go.”
+
+*He raised the mic again.*
+
+“Engineering.”
+- “Standing by,” *the radio crackled*.
+
+“Fighter Bay.”
+- “Standing by,” *the Witch’s voice rang through*.
+
+“Interceptor Bay.”
+- “Standing by,” *came a gravelly response.*
+
+“Logistics.”
+- “Standing by, Sir,” *a slightly distorted voice affirmed.*
+
+“Medbay.”
+- “Ready.” *Calm. Confident.*
+
+*Haraldson glanced at the captain and gave a firm nod.*
+“Theseus is locked and loaded, Sir. Condition 1 is in full effect.”
