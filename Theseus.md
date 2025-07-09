@@ -121,7 +121,7 @@
 “But seriously… ever since the Great Sol War ended, and the ORF split off into that godforsaken Kuiper Belt, they’ve kept to themselves. No TPCs. No requests. Nothing. That was the deal.”
 *He gestured toward the bow of the ship.*
 “And for thirteen years, that deal held. Everyone was fine. No noise. No contact. Then one year ago…”,
-*he paused, the silence in the room was countered by the hum of the instruments...*
+*he paused, the silence in the room was countered by the hum of the instruments*,
 “…they open a channel to the Terran Sol Union government.”
 *Haraldson’s voice tightened with suspicion.*
 “And now we’re sitting here—on ‘trade negotiations’ that have dragged on for almost a year?”
