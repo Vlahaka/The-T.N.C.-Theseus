@@ -171,7 +171,7 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 
 *As they walked through hallways, bulkheads, and causeways, every crew member they passed stopped in their tracks to offer firm, respectful salutes. Kovarik was clearly elated to be seen walking beside the ship’s Captain and Executive Officer.*
 
-*Radek could feel her pride, even caught her with the corner of his eye how she lifts her head higher when crewmen walk by—and he remembered. Fifteen years ago, during the Great Sol War, she had joined his crew as a fresh academy graduate. Back then, she dreamed of becoming a great pilot, though her confidence was brittle. She had lost her family and friends to a bombing raid on her home dome on Mars. The only reason she survived was because she was still in Navy school on Earth.*
+*Radek could feel her pride, even caught her with the corner of his eye how she lifts her head higher when they walk past crewmen—and he remembered. Fifteen years ago, during the Great Sol War, she had joined his crew as a fresh academy graduate. Back then, she dreamed of becoming a great pilot, though her confidence was brittle. She had lost her family and friends to a bombing raid on her home dome on Mars. The only reason she survived was because she was still in Navy school on Earth.*
 
 *After that, she flew with fury. She wanted to avenge her loss, to protect others from the same fate. It was Haradlson who shaped her into the pilot she had become—a razor-sharp ace who had survived countless dogfights on skill, instinct, and sheer will alone.*
 
@@ -490,7 +490,8 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 
 “Go.”
 
-*He raised the mic again.*
+*He raised the mic again:*
+
 “Engineering.”
 - “Standing by,” *the radio crackled*.
 
@@ -507,4 +508,21 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 - “Ready.” *Calm. Confident.*
 
 *Haraldson glanced at the captain and gave a firm nod.*
-“Theseus is locked and loaded, Sir. **Condition 1 is now in full effect**.”
+“Theseus is locked and loaded, Sir. **Condition one... is now in full effect**.”
+*And for half-second only the hum of power beneath steel was heard in the C.C.C.*
+
+*Radek tapped his fingers against the edge of the command table—fast, nervous, but focused. Then, sharply:*
+“Actual...”
+
+“Sir!” *the lieutenant cut in, snapping to full attention before the captain could finish. The moment gripped him now—no hesitation.*
+
+*Radek continued, almost impressed by the response:*
+
+“Transmit a T.P.C. to Navy Command. Inform them mission parameters have changed. A portion of the ORF fleet has crossed into the buffer zone—without Naval escort.”
+*He glanced at the wall-mounted chronometer.*
+“Mark it: twelve minutes, fifty-two ships, initial readings detecting civilian transponders only. All jumped to our location while we were still spinning up the core.”
+*He turned back to the lieutenant, tone firmer now:*
+“Request updated parameters... and reinforcements, also inform them, we are now maintaining current position  and assesing the risk level of this unexpected arrival. Conclude with condition one being instated throught the ship. Mark date and time, form digital signature and send”.
+
+
+
