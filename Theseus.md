@@ -410,14 +410,14 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 
 "Aye Aye Sir", *operator from Tactical console snapped hastily*, "All comms jammed for all ORF fleet". 
 
-*The C.C.C. had fallen into an unnatural silence. Even the usual hums and mechanical whirs of the consoles seemed to have quieted, as if the ship itself was holding its breath. For a brief moment, no one spoke. Operators glanced at one another, then back to their screens—some visibly sweating, others frozen mid-motion. Radek could feel the air thickening, dense with the sound of dozens of people breathing faster than normal, tension radiating like static. The air conditioning blew a faint stream of cold air across his neck, a mechanical whisper against the rising pressure.*
+*The C.C.C. had fallen into an unnatural silence. Even the usual hums and mechanical whirs of the consoles seemed to have quieted, as if the ship itself was holding its breath. For a brief moment, no one spoke. Operators continued to glance at one another, then back to their screens—some visibly sweating, others frozen mid-motion. Radek could feel the air thickening, dense with the sound of a dozen people breathing faster than normal, tension radiating like static. The air conditioning blew a faint stream of cold air across his neck, a mechanical whisper against the rising pressure.*
 
 *This stillness was historic.*
 
-*Since the Theseus was commissioned, not once had Condition 1 been initiated in a live context. This was no drill. Outside the C.C.C., muffled noise still leaked through—metal boots pounding on deck, tools being moved, shouted orders as the rest of the ship raced to their posts.*
+*Since the Theseus was commissioned one and half years ago, not once had Condition 1 been initiated in a live context. This was no drill. Outside the C.C.C., muffled noise still leaked through—metal boots pounding on deck, tools being moved, shouted orders as the rest of the ship raced to their posts.*
 
 *Then, cutting cleanly through the tension, Radek’s voice:*
-“Ship-wide systems check—report now.”
+“Ship-wide systems check—report on the double.”
 
 *Haraldson was already moving toward the hardline terminal on the far side of the command table before Radek had even finished giving the order.*
 “On it,” *he muttered, picking up the receiver with one hand while locking eyes with the communications lieutenant. The officer gave a sharp nod.*
@@ -459,10 +459,10 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 - “Standing by,” *the radio crackled*.
 
 “Fighter Bay.”
-- “Standing by,” *the Witch’s voice rang through*.
+- “Standing by for launch,” *the Witch’s voice rang through*.
 
 “Interceptor Bay.”
-- “Standing by,” *came a gravelly response.*
+- “Standing by; Geared up and good to go,” *came a gravelly response.*
 
 “Logistics.”
 - “Standing by, Sir,” *a slightly distorted voice affirmed.*
@@ -471,4 +471,4 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 - “Ready.” *Calm. Confident.*
 
 *Haraldson glanced at the captain and gave a firm nod.*
-“Theseus is locked and loaded, Sir. Condition 1 is in full effect.”
+“Theseus is locked and loaded, Sir. **Condition 1 is now in full effect**.”
