@@ -522,7 +522,16 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 *He glanced at the wall-mounted chronometer.*
 “Mark it: twelve minutes, fifty-two ships, initial readings detecting civilian transponders only. All jumped to our location while we were still spinning up the core.”
 *He turned back to the lieutenant, tone firmer now:*
-“Request updated parameters... and reinforcements, also inform them, we are now maintaining current position  and assesing the risk level of this unexpected arrival. Conclude with condition one being instated throught the ship. Mark date and time, form digital signature and send”.
+“Request updated parameters... and reinforcements. Inform them we are maintaining current position and assessing the risk level of this unexpected arrival. Conclude with confirmation that Condition One has been instated throughout the ship.
+Mark timestamp, affix digital signature, and send.”
 
-
+*Haraldson stepped up to the command table, positioning himself across from Radek.*
+"It’ll take two hours just for the T.P.C. to reach them and that’s if someone sees it the moment it arrives.”
+*He exhaled sharply through his nose*.
+“Add two more hours for a reply... if we're lucky.”
+*He planted both hands on the edge of the table, leaning in.*
+“But you and I both know... by the time they schedule a meeting, debate, and finally agree on a course of action” *he briefly pauses.*
+“It’ll take far more than four hours.”
+*Then, quieter—almost a whisper:*
+“We’re completely alone.”
 
