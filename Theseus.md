@@ -356,7 +356,7 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 
 - “Impulse core is now engaged. All metrics green on our side. Actual, confirm order to begin Einstein-Rosen bridge formation!”
 
-*Radek turned instinctively toward the nearest hardline, but another voice broke through—the radar operator:*
+*Radek turned instinctively toward the nearest hardline, but another voice broke through—the telemetry  operator:*
 
 “Captain! Fifty-two bogeys on scope, they are all ORF. Orders, sir?”
 
@@ -368,7 +368,7 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 
 "Give me full ID on the 52 ships. Cancel the impulse jump. Set Condition One across the ship," *Radek ordered, his voice steady but razor-sharp as he took full command of the C.C.C.*
 
-*A tactical officer responded, eyes glued to the display.* "Sir, the ORF fleet appears to be entirely civili—"
+*The tactical officer responded, eyes glued to the display.* "Sir, the ORF fleet appears to be entirely civili—"
 
 *Before he could finish, the ship-wide alert cut him off:*
 
@@ -376,7 +376,7 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 
 *Radek’s eyes narrowed.* "No military craft in that fleet? Confirm that."
 
-*The radar post snapped back,* "No, sir. Fifty-two vessels. Civilian only—no visible weapons, no tactical formations."
+*The tactical post snapped back,* "Yes, sir. Fifty-two vessels. Civilian only—no visible weapons, no tactical formations."
 
 *The comms lit up again with engineering:*
 - "Actual, confirm impulse jump abort. Repeat—confirm abort."
@@ -396,6 +396,14 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 - "All military stayed behi—"
 - "One... unknown craft..."
 - "Thousands dead..."
+
+*Radek lifted his head from the glowing grid of the command table, frowning as the overlapping bursts of garbled comms fed through the speakers like a dozen voices screaming underwater. He scanned the room. Every officer in the C.C.C. had frozen mid-task, posture rigid, eyes darting between monitors and each other.*
+
+*Panic wasn’t visible to the naked eye — it vibrated in the air.*
+
+*The cacophony of civilian transmissions continued: fragmented phrases, desperate voices, all colliding into one unintelligible wall of noise. Some pleaded. Some screamed. One repeated the same word again and again:* “burning... burning... burning...”
+
+*Radek’s jaw tensed. His sight locked onto the tactical officer, who sat clenched at his station with his hands gripping tightly to the edges of the console.*
 
 *Radek’s eyes sharpened. He straightened and gave a single, cold order:*
 "Jam all communications. All frequencies. All ships. Now."
