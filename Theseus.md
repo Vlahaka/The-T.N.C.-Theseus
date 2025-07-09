@@ -397,7 +397,7 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 - "One... unknown craft..."
 - "Thousands dead..."
 
-*Radek lifted his head from the glowing grid of the command table, frowning as the overlapping bursts of garbled comms fed through the speakers like a dozen voices screaming underwater. He scanned the room. Every officer in the C.C.C. had frozen mid-task, posture rigid, eyes darting between monitors and each other.*
+*Radek lifted his head from the glowing grid of the command table, frowning as the overlapping bursts of garbled comms fed through the speakers like a dozen voices screaming inside a closed chamber. He scanned the room. Every officer in the C.C.C. had frozen mid-task, posture rigid, eyes darting between monitors and each other.*
 
 *Panic wasn’t visible to the naked eye — it vibrated in the air.*
 
