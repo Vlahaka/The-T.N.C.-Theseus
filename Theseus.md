@@ -3,7 +3,7 @@
 
 # From Darkness: The Odyssey of Theseus
 ---
-> **"Nothing"** is the **absolut absence** in which there there can be **no time**, **no motion**, **no entropy**, **no awareness** and not even the ability of **self-observation**.
+> **"Nothing"** is the **absolute absence** in which there there can be **no time**, **no motion**, **no entropy**, **no awareness** and not even the ability of **self-observation**.
 ---
 
 ## Chapter 1
@@ -299,15 +299,15 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 >
 > Coordinates: [KX-287.94 / 09°N - 132°W / 41.7 AU]
 >
-> Rendezvous with Outer Ring Faction fleet is to occur at the specified coordinates.
+> Rendezvous with Outer Ring Factions fleet is to occur at the specified coordinates.
 >
-> From current staging position in the buffer zone, acting currently as border overseer as per agreement with Outer Ring Ministery, for the duration of the trade negotiations, the Theseus is now ordered to commence 2 linked impulse jumps:
+> From current staging position in the buffer zone, acting currently as border overseer as per agreement with Outer Ring Ministery, for the duration of the trade negotiations, the Theseus is now ordered to commence two linked impulse jumps:
 >
-> Jump one - **Maxim Impuls Core Range**: From the buffer into the ORF space at maxim impuls core range where the crew will await the impuls downtime of approximately 3 hours, T.P.C. confirmation of arrival is obligatory.
+> Jump one - **Maxim Impuls Core Range**: From the buffer into the O.R.F. space at maxim impuls core range where the crew will await the impuls downtime of approximately 3 hours, T.P.C. confirmation of arrival is obligatory.
 >
-> Jump 2 - **85% Impulse core range**: From impuls core cooldown location to coordinates given within the cotent of present T.P.C. at the O.R.F. Staging Outpost where the fleet is waiting. Confirmation of arrival is Mandatory.
+> Jump two - **85% Impulse core range**: From impuls core cooldown location to coordinates given within the cotent of present T.P.C. at the O.R.F. Staging Outpost where the fleet is waiting. Confirmation of arrival is Mandatory.
 >
-> Upon jump competition the Theseus is to contact O.R.C Lenthar and begin preparations for evacuation while impuls core is on cooldown.
+> Upon jump competition the Theseus is to contact O.R.C. Lenthar and begin preparations for evacuation while impuls core is on cooldown.
 >
 >  The purpose of this engagement is to ensure the safe escort and extraction of all vessels currently within O.R.F. territory at that location.
 >
@@ -315,7 +315,7 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 >
 > Navy Command will be expecting the arrival of the  O.R.F. fleet under the escort of the Theseus in the buffer zone.
 > 
-> Intelligence reports indicate the destruction of multiple O R.F. ships and stations by an unidentified vessel not originating from the Sol system.
+> Intelligence reports indicate the destruction of multiple O.R.F. ships and stations by an unidentified vessel not originating from the Sol system.
 >
 > Departure is to be confirmed via T.P.C. with Navy Command and executed without delay.
 >
