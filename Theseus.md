@@ -262,7 +262,7 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 
 “I’m here, boy,” *Haraldson called out, standing halfway from his seat.* “What’s with the theatrics? Did you forget your training?”
 
-“No, sir!” *the lieutenant straightened into a rigid posture, voice loud and crisp now.* “Message marked for immediate delivery to Theseus Command Staff. No delay permitted, sir!”
+“No, sir!” *the lieutenant straightened into a rigid posture, voice loud and crisp now.* “Message marked for immediate delivery to Theseus Command Staff. We ran the  digital signature and it checks out, the order is authentic Sir." 
 
 *Haraldson stepped forward, already extending a hand.*
 “Dismissed, Lieutenant,” *he said calmly as he took the sealed paper*.
@@ -275,13 +275,39 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 
 *Radek took the paper without a word and began reading—deliberately slow. He could feel the heat rising in his face, jaw tightening with each line.*
 
+> **Order 7659/12**
+> 
+> Order issue date: 17th of January 2415
+> 
+> Order issue time: 13:00:04
+> 
+> Order issue via **Tachyon Pulse Communiqué** (T.P.C.)
+> 
+> Order issued by Terran Sol Union
+> 
+> Order enforced by Terran Navy Command
+> 
+> Order issue signed by Admiral Joakin G. Murtough
+> 
+> Order execution: Immediate upon in-hand receipt
+> 
+> Order to be executed by T.N.C. Theseus
+> 
 > **To the Theseus Command Staff,**
 >
-> Following the negotiations between the TSU and the ORF, the T.N.C. Theseus is hereby ordered to depart immediately upon receipt of this T.P.C.
+> Following the negotiations between the T.S.U. and the O.R.F., the T.N.C. Theseus is hereby ordered to depart immediately upon receipt of this T.P.C.
 
 > Coordinates: [KX-287.94 / 09°N - 132°W / 41.7 AU]
 >
-> Rendezvous with an Outer Ring Faction fleet is to occur at the specified coordinates. The purpose of this engagement is to ensure the safe escort and extraction of all vessels currently within ORF territory at that location. 
+> Rendezvous with Outer Ring Faction fleet is to occur at the specified coordinates.
+>
+> From current staging position in the buffer zone, acting currently as border overseer as per agreement with Outer Ring Ministery, for the duration of the trade negotiations, the Theseus is now ordered to commence 2 linked impulse jumps:
+>
+> Jump one - **Maxim Impuls Core Range**: From the buffer into the ORF space at maxim impuls core range where the crew will await the impuls downtime of approximately 3 hours, T.P.C. confirmation of arrival is obligatory.
+>
+> Jump 2 - **85% Impulse core range**: From impuls core cooldown location to coordinates given within the cotent of present T.P.C. at the O.R.F. staging 
+>
+>  The purpose of this engagement is to ensure the safe escort and extraction of all vessels currently within ORF territory at that location. 
 >
 > Intelligence reports indicate the destruction of multiple ORF ships and stations by an unidentified vessel not originating from the Sol system.
 
@@ -317,7 +343,7 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 
 “Aye, aye, Sir,” *Haraldson replied without hesitation, turning briskly toward the nearest hardline terminal mounted on the cantina wall. He picked up the receiver, voice clear and proud as steel.*
 
-“Action Stations! Set Condition Two throughout the ship. Initiate alignment to ORF Staging Outpost. Prepare Impulse Jump Protocols.”
+“Action Stations! Order from Navy Command received. Set Condition Two throughout the ship. Initiate alignment to ORF Staging Outpost at coordinates already calculated by navsat upon order authentication. Prepare Impulse Jump Protocols.”
 
 *The very moment he hung up, the deck beneath them began to thrum—a low, powerful vibration spreading through the cantina like a pulse of restrained thunder.*
 
