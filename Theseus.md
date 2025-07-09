@@ -403,10 +403,10 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 
 *The cacophony of civilian transmissions continued: fragmented phrases, desperate voices, all colliding into one unintelligible wall of noise. Some pleaded. Some screamed. One repeated the same word again and again:* “burning... burning... burning...”
 
-*Radek’s jaw tensed. His sight locked onto the tactical officer, who sat clenched at his station with his hands gripping tightly to the edges of the console.*
+*Radek’s jaw tensed. His sight locked onto the tactical officer, who sat clenched at his station and with his hands gripping tightly to the edges of the console.*
 
 *Radek’s eyes sharpened. He straightened and gave a single, cold order:*
-"Jam all communications. All frequencies. All ships. Now."
+"Jam all communications. All frequencies. All ships. **Now.**"
 
 "Aye Aye Sir", *operator from Tactical console snapped hastily*, "All comms jammed for all ORF fleet". 
 
