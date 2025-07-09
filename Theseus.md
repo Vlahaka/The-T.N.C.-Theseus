@@ -171,7 +171,7 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 
 *As they walked through hallways, bulkheads, and causeways, every crew member they passed stopped in their tracks to offer firm, respectful salutes. Kovarik was clearly elated to be seen walking beside the ship’s Captain and Executive Officer.*
 
-*Radek could feel her pride—and he remembered. Fifteen years ago, during the Great Sol War, she had joined his crew as a fresh academy graduate. Back then, she dreamed of becoming a great pilot, though her confidence was brittle. She had lost her family and friends to a bombing raid on her home dome on Mars. The only reason she survived was because she was still in Navy school on Earth.*
+*Radek could feel her pride, even caught her with the corner of his eye how she lifts her head higher when crewmen walk by—and he remembered. Fifteen years ago, during the Great Sol War, she had joined his crew as a fresh academy graduate. Back then, she dreamed of becoming a great pilot, though her confidence was brittle. She had lost her family and friends to a bombing raid on her home dome on Mars. The only reason she survived was because she was still in Navy school on Earth.*
 
 *After that, she flew with fury. She wanted to avenge her loss, to protect others from the same fate. It was Haradlson who shaped her into the pilot she had become—a razor-sharp ace who had survived countless dogfights on skill, instinct, and sheer will alone.*
 
@@ -313,7 +313,7 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 >
 > O.R.F. Vessels are not to cross in T.S.U. space without Navy Command presence as per agreement with the O.R. Ministery, thus the Theseus escort of the fleet is paramount for evacuation success. 
 >
-> Navy Command will be expecting the arrival of the  O.R.F. fleet under the escort of the Theseus in the buffer zone.
+> Navy Command will be expecting the arrival of the  O.R.F. fleet under the escort of the Theseus in the buffer zone.The T.N.C. Morpheus and the T.N.C. Achilieus will be already standing by at the position where the T.N.C. Theseus is presently located. 
 > 
 > Intelligence reports indicate the destruction of multiple O.R.F. ships and stations by an unidentified vessel not originating from the Sol system.
 >
