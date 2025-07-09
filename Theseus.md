@@ -296,7 +296,7 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 > **To the Theseus Command Staff,**
 >
 > Following the negotiations between the T.S.U. and the O.R.F., the T.N.C. Theseus is hereby ordered to depart immediately upon receipt of this T.P.C.
-
+>
 > Coordinates: [KX-287.94 / 09°N - 132°W / 41.7 AU]
 >
 > Rendezvous with Outer Ring Faction fleet is to occur at the specified coordinates.
@@ -305,13 +305,21 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 >
 > Jump one - **Maxim Impuls Core Range**: From the buffer into the ORF space at maxim impuls core range where the crew will await the impuls downtime of approximately 3 hours, T.P.C. confirmation of arrival is obligatory.
 >
-> Jump 2 - **85% Impulse core range**: From impuls core cooldown location to coordinates given within the cotent of present T.P.C. at the O.R.F. staging 
+> Jump 2 - **85% Impulse core range**: From impuls core cooldown location to coordinates given within the cotent of present T.P.C. at the O.R.F. Staging Outpost where the fleet is waiting. Confirmation of arrival is Mandatory.
 >
->  The purpose of this engagement is to ensure the safe escort and extraction of all vessels currently within ORF territory at that location. 
+> Upon jump competition the Theseus is to contact O.R.C Lenthar and begin preparations for evacuation while impuls core is on cooldown.
 >
-> Intelligence reports indicate the destruction of multiple ORF ships and stations by an unidentified vessel not originating from the Sol system.
-
+>  The purpose of this engagement is to ensure the safe escort and extraction of all vessels currently within O.R.F. territory at that location.
+>
+> O.R.F. Vessels are not to cross in T.S.U. space without Navy Command presence as per agreement with the O.R. Ministery, thus the Theseus escort of the fleet is paramount for evacuation success. 
+>
+> Navy Command will be expecting the arrival of the  O.R.F. fleet under the escort of the Theseus in the buffer zone.
+> 
+> Intelligence reports indicate the destruction of multiple O R.F. ships and stations by an unidentified vessel not originating from the Sol system.
+>
 > Departure is to be confirmed via T.P.C. with Navy Command and executed without delay.
+>
+> Order digital signature: 256Alpha13
 >
 > **Godspeed.**
 
@@ -343,7 +351,7 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 
 “Aye, aye, Sir,” *Haraldson replied without hesitation, turning briskly toward the nearest hardline terminal mounted on the cantina wall. He picked up the receiver, voice clear and proud as steel.*
 
-“Action Stations! Order from Navy Command received. Set Condition Two throughout the ship. Initiate alignment to ORF Staging Outpost at coordinates already calculated by navsat upon order authentication. Prepare Impulse Jump Protocols.”
+“Action Stations! We received orders from Navy Command. Set Condition Two throughout the ship. Initiate alignment to ORF Staging Outpost at coordinates already calculated and marked by navsyst upon TPC order authentication. Prepare Impulse Jump Protocols.”
 
 *The very moment he hung up, the deck beneath them began to thrum—a low, powerful vibration spreading through the cantina like a pulse of restrained thunder.*
 
