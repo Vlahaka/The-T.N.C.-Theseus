@@ -410,7 +410,9 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 
 "Aye Aye Sir", *operator from Tactical console snapped hastily*, "All comms jammed for all ORF fleet". 
 
-*The C.C.C. had fallen into an unnatural silence. Even the usual hums and mechanical whirs of the consoles seemed to have quieted, as if the ship itself was holding its breath. For a brief moment, no one spoke. Operators continued to glance at one another, then back to their screens—some visibly sweating, others frozen mid-motion. Radek could feel the air thickening, dense with the sound of a dozen people breathing faster than normal, tension radiating like static. The air conditioning blew a faint stream of cold air across his neck, a mechanical whisper against the rising pressure.*
+*The C.C.C. had fallen into an unnatural silence. Even the usual hums and mechanical whirs of the consoles seemed to have quieted, as if the ship itself was holding its breath. For a brief moment, no one spoke. Operators continued to glance at one another, then back to their screens—some visibly sweating, others frozen mid-motion. 
+
+Radek could feel the air thickening, dense with the sound of a dozen people breathing faster than normal, tension radiating like static. The air conditioning blew a faint stream of cold air across his neck, a mechanical whisper against the rising pressure.*
 
 *This stillness was historic.*
 
