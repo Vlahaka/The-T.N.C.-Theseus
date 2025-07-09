@@ -416,7 +416,7 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 
 *Since the Theseus was commissioned, not once had Condition 1 been initiated in a live context. This was no drill. Outside the C.C.C., muffled noise still leaked through—metal boots pounding on deck, tools being moved, shouted orders as the rest of the ship raced to their posts.*
 
-Then, cutting cleanly through the tension, Radek’s voice:
+*Then, cutting cleanly through the tension, Radek’s voice:*
 “Ship-wide systems check—report now.”
 
 *Haraldson was already moving toward the hardline terminal on the far side of the command table before Radek had even finished giving the order.*
