@@ -448,8 +448,6 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 
 *Radek could feel the air thickening, dense with the sound of a dozen people breathing faster than normal, tension radiating like static. The air conditioning blew a faint stream of cold air across his neck, a mechanical whisper against the rising pressure.*
 
-*This stillness was historic.*
-
 *Since the Theseus was commissioned one and half years ago, not once had Condition 1 been initiated in a live context. This was no drill. Outside the C.C.C., muffled noise still leaked through—metal boots pounding on deck, tools being moved, shouted orders as the rest of the ship raced to their posts.*
 
 *Then, cutting cleanly through the tension, Radek’s voice:*
