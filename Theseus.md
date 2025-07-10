@@ -532,6 +532,27 @@ Mark timestamp, affix digital signature, and send.”
 *He planted both hands on the edge of the table, leaning in.*
 “But you and I both know... by the time they schedule a meeting, debate, and finally agree on a course of action” *he briefly pauses.*
 “It’ll take far more than four hours.”
-*Then, quieter—almost a whisper:*
+*Then, quieter, almost a whisper:*
 “We’re completely alone.”
 
+"You know what this reminds me of?" *Radek asked, frowning slightly as he leaned over the command table beside Haraldson.*
+"The Saturn op. When we had to mediate that dispute between the two mining corporations."
+
+"Aye, John, I remember," *Haraldson murmured, his voice quiet.* "Myrtle Ring Mines and... what was the other one..." *He squinted, searching his memory*. "Something with Saturn... ah—Saturn Ring-Ore. That was it." *His uncertain expression gave way to clarity.*
+"You did a good job keeping the tension down," *he added, straightening and crossing his arms*. "But you didn’t listen to me back then. You expected those captains to lead their ships like you wished, by the books. I told you, you should’ve assumed command of those mining barges."
+
+*Radek’s gaze locked onto Haraldson’s. He began pacing slowly around the table, moving closer.*
+"Yes, Leif. And because I didn’t, twenty-six people ended up in medbay. One of them didn’t make it."
+*Now face to face, his voice dropped to a quieter, steadier tone.*
+"I lived with that decision for years. Everyone told me not to blame myself. 'How could you have known,' they said."
+*He paused*. "But not you. You knew. And I didn’t listen."
+
+*Haraldson looked down for a second, then back up.*
+"You’d just made Captain. You were stepping into something new, you had to show command."
+*He held Radek’s gaze.* "A real commander is born through fire."
+
+*Radek tapped Haraldson’s shoulder three times, deliberately.*
+"You also left out counseling me in your after-action report," he said.
+"I always wondered why, but I never had the guts to ask you."
+*He kept starring into his XO’s eyes*.
+"But today... I know."
