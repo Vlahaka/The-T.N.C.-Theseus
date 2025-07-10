@@ -515,7 +515,6 @@ The room fell into sudden, brittle silence. Only the soft whine of alarms and th
 “Sir!” *the lieutenant cut in, snapping to full attention before the captain could finish. The moment gripped him now—no hesitation.*
 
 *Radek continued, almost impressed by the response:*
-
 “Transmit a T.P.C. to Navy Command. Inform them mission parameters have changed. A portion of the ORF fleet has crossed into the buffer zone—without Naval escort.”
 *He glanced at the wall-mounted chronometer.*
 “Mark it: twelve minutes, fifty-two ships, initial readings detecting civilian transponders only. All jumped to our location while we were still spinning up the core.”
@@ -554,3 +553,9 @@ Mark timestamp, affix digital signature, and send.”
 "I always wondered why, but I never had the guts to ask you."
 *He kept starring into his XO’s eyes*.
 "But today... I know."
+
+*All operators were glued to their screens, fingers flying over consoles as they tracked the ORF fleet’s movement and monitored internal ship systems. The hum of activity filled the C.C.C., but despite their workload, every ear strained toward the exchange unfolding at the command table.*
+
+*Some officers did a respectable job pretending not to listen, their eyes locked on telemetry readouts. Others stole more obvious glances, captivated by the rare moment of personal truth between their commanding officers.*
+
+*But the spell broke in an instant when Radek’s voice rose firm, commanding, undeniable. It cut through the quiet like a sharp blade, pulling every crewmember back into their place with jarring precision*.
