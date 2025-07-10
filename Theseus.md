@@ -535,11 +535,11 @@ Mark timestamp, affix digital signature, and send.”
 *Then, quieter, almost a whisper:*
 “We’re completely alone.”
 
-"You know what this reminds me of?" *Radek asked, frowning slightly as he leaned over the command table beside Haraldson.*
+"You know what this reminds me of?" *Radek asked, frowning slightly as he leaned over the command table facing Haraldson.*
 "The Saturn op. When we had to mediate that dispute between the two mining corporations."
 
 "Aye, John, I remember," *Haraldson murmured, his voice quiet.* "Myrtle Ring Mines and... what was the other one..." *He squinted, searching his memory*. "Something with Saturn... ah—Saturn Ring-Ore. That was it." *His uncertain expression gave way to clarity.*
-"You did a good job keeping the tension down," *he added, straightening and crossing his arms*. "But you didn’t listen to me back then. You expected those captains to lead their ships like you wished, by the books. I told you, you should’ve assumed command of those mining barges."
+"You did a good job keeping the tension down," *he added, straightening and crossing his arms*. "But you didn’t listen to me back then. You expected those captains to lead their ships like you wished, by the books. I told you, you should’ve taken control of those mining barges."
 
 *Radek’s gaze locked onto Haraldson’s. He began pacing slowly around the table, moving closer.*
 "Yes, Leif. And because I didn’t, twenty-six people ended up in medbay. One of them didn’t make it."
