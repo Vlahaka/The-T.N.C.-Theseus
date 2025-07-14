@@ -8,10 +8,12 @@
 
 ## Chapter 1
 
+---
 > **Aboard the T.N.C Theseus**
 >
 > Command and Communication Center - **"The C.C.C."**
 ![ccc](Artwork/ccc.png)
+---
 
 *The lights above the command table glowed a soft amber, casting long shadows across the matte-black consoles. The air buzzed with low radio traffic, muted and layered, a dozen operations running in parallel, all feeding back to this room. Around the walls, stations pulsed with radar sweeps, system checks, and pilot telemetry. Fingers moved across interfaces with practiced ease, but no one was speaking.*
 
