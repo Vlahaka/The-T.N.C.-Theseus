@@ -3,7 +3,12 @@
 
 # From Darkness: The Odyssey of Theseus
 ---
+> **Prologue**
+>
 > **"Nothing"** is the **absolute absence** in which there there can be **no time**, **no motion**, **no entropy**, **no awareness** and not even the ability of **self-observation**.
+>
+> **Author:**
+> *Ionut Daniel Vlad*
 ---
 
 ## Chapter 1
