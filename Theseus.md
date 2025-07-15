@@ -51,9 +51,9 @@
 
 *Haraldson rested his hand on the command table and murmured to himself*, “If we complete this sim... we’ll be in the Navy’s top five.”
 
-“Hit it,” *the Witch commanded in a single breath. Her voice surged through the C.C.C., momentarily distorting the speakers*.
+- “Hit it,” *the Witch commanded in a single breath. Her voice surged through the C.C.C., momentarily distorting the speakers*.
 
-“Woooohooooo!” *one of the pilots shouted, forgetting the mic was still open.*
+- “Woooohooooo!” *one of the pilots shouted, forgetting the mic was still open.*
 
 “Two-fifty kilometers,” *the telemetry officer called out.*
 
@@ -63,11 +63,11 @@
 
 *The Command and Communication Center filled with a low, focused murmur—operators exchanging clipped remarks, eyes glued to their stations.*
 
-“Three... more... seconds,” *the Witch warned the squadron, her voice strained, pulled thin by acceleration*.
+- “Three... more... seconds,” *the Witch warned the squadron, her voice strained, pulled thin by acceleration*.
 
 “One-fifty kilometers!” *came the shout from telemetry, urgency now breaking through.*
 
-“Break! Break! BREAK!” *Kovarik roared, her voice barely cutting through the crushing G-forces.*
+- “Break! Break! BREAK!” *Kovarik roared, her voice barely cutting through the crushing G-forces.*
 
 - “They broke formation!” *Hound nearly shouted.* “They’ve split!”
 
