@@ -28,7 +28,7 @@
 
 - "Witch to all fighters—form up on me. Three bogeys remaining. Theseus Actual, can you confirm?"
 
-"Theseus Actual here. I confirm three radar bogeys remaining—grid coordinates Kappa-19 by Theta-42. They’re holding current formation. I repeat: formation and heading unchanged."
+"Theseus Actual here. I confirm three radar bogeys remaining—grid coordinates Kappa-19 by Theta-42, distance 300 km and closing. They’re holding current formation. I repeat: formation and heading unchanged."
 
 - "Hound here—I'm in position, right behind you, Witch."
 
@@ -46,6 +46,29 @@
 > ![haraldson](Artwork/Leif_Haraldson.png)
 > X.O. Leif Haradlson
 ---
+
+- "Engage afterburners—five-second burst. On my mark," *Kovarik ordered, her voice calm but edged with tension*. "Stay sharp. Maybe we get it right this time."
+
+*Haraldson rested his hand on the command table and murmured to himself*, “If we complete this sim... we’ll be in the Navy’s top five.”
+
+“Hit it,” *the Witch commanded in a single breath. Her voice surged through the C.C.C., momentarily distorting the speakers*.
+
+“Woooohooooo!” *one of the pilots shouted, forgetting the mic was still open.*
+
+“Two-fifty kilometers,” *the telemetry officer called out.*
+
+“It’s now or never,” *Haraldson muttered again, eyes locked on the hologrid.*
+
+“Two hundred kilometers,” *telemetry reported, voice tightening.*
+
+*The Command and Communication Center filled with a low, focused murmur—operators exchanging clipped remarks, eyes glued to their stations.*
+
+“Three... more... seconds,” *the Witch warned the squadron, her voice strained, pulled thin by acceleration*.
+
+“One-fifty kilometers!” *came the shout from telemetry, urgency now breaking through.*
+
+“Break! Break! BREAK!” *Kovarik roared, her voice barely cutting through the crushing G-forces.*
+
 - “They broke formation!” *Hound nearly shouted.* “They’ve split!”
 
 - “Startrail, you’re with Hound. Engage the two-bogey group,” *Witch commanded, her voice steady with an eerie calm.* “Seahorse—on me.”
