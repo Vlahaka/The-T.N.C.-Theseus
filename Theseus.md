@@ -420,11 +420,11 @@ The two men stepped out of the C.C.C., while Kovarik remained rooted in place—
 
 - “Impulse core is now engaged. All metrics green on our side. Actual, confirm order to begin Einstein-Rosen bridge formation!”
 
-*Radek turned instinctively toward the nearest hardline, but another voice broke through—the telemetry  operator:*
+*Radek turned instinctively toward the nearest hardline, but another voice broke through, the radar  operator:*
 
-“Captain! Fifty-two bogeys on scope, they are all ORF. Orders, sir?”
+“Captain! Fifty-two bogeys on scope, they are all ORF.”
 
-*Before Radek could respond, Haraldson slammed a fist into the command table. His voice roared over the din:*
+*Before Radek could open his mouth, Haraldson slammed a fist into the command table. His voice roared over the din:*
 
 "Silence! This is the C.C.C.! You are trained Navy personnel—act like it! Or I swear, I’ll personally throw every last one of you into the brig!"
 
@@ -589,3 +589,31 @@ Mark timestamp, affix digital signature, and send.”
 *Some officers did a respectable job pretending not to listen, their eyes locked on telemetry readouts. Others stole more obvious glances, captivated by the rare moment of personal truth between their commanding officers.*
 
 *But the spell broke in an instant when Radek’s voice rose firm, commanding, undeniable. It cut through the quiet like a sharp blade, pulling every crewmember back into their place with jarring precision*.
+
+"Lift the radio jamming. Give me a direct line to the entire ORF fleet," *Radek ordered, eyes scanning the C.C.C. as he made his way back to his place at the command table.* "I’ll address the civilian ships."
+
+"Jamming system disengaged, Sir," *the tactical officer reported, voice calm—almost unnaturally so.*
+
+"You have the line, Sir," *the comms lieutenant confirmed swiftly.*
+
+*Radek reached for the hardline terminal mic mounted at the edge of the table. He lifted it slowly, deliberately, then brought it to his mouth with a smooth motion:*
+
+"This is Captain John Radek of the Terran Navy Command, Theseus-class battleship," *he began, his voice clear and steady.* "You have crossed into the buffer zone established under the Neptune Convention of 2402, signed by the TSU and the ORF. You did so without naval escort. However, your radio transmissions have been recognized as a formal request for sanctuary."
+
+*He glanced at Haraldson, frowning, expression sharp with focus.*
+
+"Under the provisions of the Neptune Convention and given the nature of the potential threat emerging within ORF space, I hereby assume command of all fifty-two civilian ORF vessels. From this moment, you are granted asylum under Terran Navy Command jurisdiction."
+
+*The C.C.C. erupted in a soft flurry of whispered exchanges. Across the command table, Haraldson had already begun pacing, his boots echoing faintly on the deck.*
+
+"You are to maintain radio silence until further instructions are issued by the Theseus. As of now, you are subject to Navy Command protocols. Failure to comply may be interpreted as a hostile act... and met with appropriate response."
+
+*A short pause*.
+
+"You will confirm compliance via light pulses in Morse code at the conclusion of this transmission."
+
+*A breath*.
+
+"You are now under the protection of the T.N.C. Theseus. This transmission is complete. Over."
+
+*With one crisp motion, Radek returned the mic to its cradle. Instantly, the C.C.C. erupted into a restrained, synchronized applause. Haraldson joined, though pacing still—while the tactical officer remained focused at his station.*
